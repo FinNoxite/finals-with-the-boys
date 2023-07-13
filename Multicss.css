@@ -1,0 +1,145 @@
+.Banner{
+    font-size: 50px;
+    z-index: 3;
+    color:rgb(255, 106, 181);
+    font-family: 'VT323'
+}
+
+.sub
+{
+    font-size: 30px;
+    z-index: 3;
+    color:rgb(242, 175, 255);
+    font-family: 'VT323'
+}
+
+.topp
+{
+   margin-top: 50px; 
+}
+
+.sec
+{
+    margin-top: 100px;
+}
+
+body
+{
+    background-color: rgb(51, 16, 41);
+    color: blueviolet;
+}
+.jum
+{
+         
+            size: 100%;
+            background-position-y:-300px;
+            height: 300px;
+            background-color: rgb(146, 13, 108);
+            position: absolute;
+            left: 0;
+         top: -200px;
+         width: 120%;
+         height: 450px;
+         object-fit: cover;
+         z-index: 1;
+         opacity: 0.6;
+         border-color: blueviolet;
+         border-left: 20px;
+}  
+
+.jump
+{
+         
+            size: 100%;
+            background-position-y:-500px;
+            height: 300px;
+            background-color: rgb(146, 13, 108);
+            position: absolute;
+            left: 0;
+         top: -400px;
+         width: 120%;
+         height: 650px;
+         object-fit: cover;
+         z-index: 1;
+         opacity: 0.6;
+         border-color: blueviolet;
+         border-left: 20px;
+}  
+
+.jumpf
+{
+         
+            size: 100%;
+            background-position-y:-500px;
+            height: 400px;
+            background-color: rgb(146, 13, 108);
+            position: absolute;
+            left: 0;
+         top: -400px;
+         width: 120%;
+         height: 650px;
+         object-fit: cover;
+         z-index: 1;
+         opacity: 0.6;
+         border-color: blueviolet;
+         border-left: 20px;
+}  
+
+.recom
+{
+    margin-top: 100px;
+    font-family: 'Pacifico';
+    font-size: 30px;
+
+    color: rgb(209, 77, 77);
+}
+.title
+{
+    font-size: 50px;
+    font-family: 'VT323';
+}
+
+.desc
+{
+    font-family: 'Montserrat';
+    
+    font-size: 25px;
+}
+
+button
+{
+    border-radius: 20px;
+    border-style: solid;
+    border-color: blueviolet;
+    background-color: rgb(235, 192, 255);
+    width: 150px;
+    color: rgb(38, 14, 61);
+    margin-top: 20px;
+    font-family: 'VT323';
+}
+
+
+.tables
+{
+    padding: 10%;
+    margin-top: 100px;
+    color: rgb(194, 140, 255);
+    
+    border-radius: 20px;
+    background-color: rgb(66, 33, 95);
+    width: 100%;
+}
+
+th{
+    padding: 20px;
+}
+
+.hitt
+{
+    font-family: 'Pacifico';
+    font-size: 150px;
+    background-color: rgb(255, 85, 85);
+    border-radius: 200px;
+    
+    margin-top: 10%;
+}
